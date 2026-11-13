@@ -358,7 +358,7 @@ export function CartDrawer({
                     autoComplete="name"
                     value={fields.name}
                     onChange={(e) => update("name", e.target.value)}
-                    placeholder="Asha Mwinyi"
+                    placeholder="Studio Asili"
                     className="field"
                     aria-invalid={Boolean(errors.name)}
                   />
@@ -404,7 +404,7 @@ export function CartDrawer({
                       autoComplete="address-level2"
                       value={fields.city}
                       onChange={(e) => update("city", e.target.value)}
-                      placeholder="Dar es Salaam"
+                      placeholder="Arusha"
                       className="field"
                       aria-invalid={Boolean(errors.city)}
                     />

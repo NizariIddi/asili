@@ -39,7 +39,7 @@ export default function Footer() {
             </p>
             <address className="mt-6 space-y-1 text-[11.5px] not-italic leading-relaxed text-cream/45">
               <p>Mtaa wa Mkunguni 12, Oyster Bay</p>
-              <p>Dar es Salaam, Tanzania</p>
+              <p>Arusha, Tanzania</p>
               <p>Jumanne–Jumamosi, 11:00–17:00</p>
               <a
                 href="mailto:studio@asiliudongo.co.tz"
@@ -100,7 +100,7 @@ export default function Footer() {
               Jiandikishe
               <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
             </a>
-            <p className="mt-8 text-[9px] uppercase tracking-[0.16em] text-cream/30">Iliyoundwa Dar es Salaam</p>
+            <p className="mt-8 text-[9px] uppercase tracking-[0.16em] text-cream/30">Iliyoundwa Arusha</p>
           </div>
         </div>
 

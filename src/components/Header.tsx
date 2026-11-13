@@ -26,7 +26,7 @@ export function AnnouncementBar({ announcement }: { announcement?: string }) {
     <div className="relative z-40 bg-ink text-cream">
       <div className="shell flex h-9 items-center justify-between gap-4 text-[9.5px] uppercase tracking-[0.18em]">
         <a href="#story" className="hidden text-cream/55 transition-colors hover:text-cream md:inline">
-          Tangu 2014 · Dar es Salaam
+          Tangu 2014 · Arusha
         </a>
         <div className="relative mx-auto h-full flex-1 overflow-hidden md:mx-0 md:flex-none">
           <div className="flex h-full items-center justify-center">
@@ -268,7 +268,7 @@ export default function Header({
               <p className="text-xs leading-relaxed text-stone">
                 Duka letu la studio liko wazi Jumanne hadi Jumamosi, 11–17.
                 <br />
-                Mtaa wa Mkunguni 12, Oyster Bay, Dar es Salaam.
+                Mtaa wa Mkunguni 12, Oyster Bay, Arusha.
               </p>
             </div>
           </div>

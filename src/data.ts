@@ -218,7 +218,7 @@ export const products: Product[] = [
     hoverImage: photo(6801449),
     blurb: "Chapisho la archival la jiwe, udongo na vivuli virefu vya alasiri.",
     detail:
-      "Ilipigwa picha na Mwanaisha Said katika studio yake huko Dar es Salaam, ikachapishwa kwa wino wa archival kwenye karatasi ya pamba 310gsm. Huja bila fremu, ikiwa na ukingo mpana uliochanwa kwa mkono ili ikae kwa asili katika fremu yoyote.",
+      "Ilipigwa picha na Mwanaisha Said katika studio yake huko Arusha, ikachapishwa kwa wino wa archival kwenye karatasi ya pamba 310gsm. Huja bila fremu, ikiwa na ukingo mpana uliochanwa kwa mkono ili ikae kwa asili katika fremu yoyote.",
     maker: "Mwanaisha Said",
     material: "Chapisho la archival kwenye karatasi ya pamba",
     dimensions: "30 × 40 sm, bila fremu",
@@ -337,7 +337,7 @@ export const articles: Article[] = [
       "Tunanunua karibu kila kitu anachofinyanga Neema. Si kwa sababu vipande vyote vinafanana — havifanani — bali kwa sababu kila kimoja hubeba uamuzi. Katika soko lililojaa vitu vilivyotengenezwa haraka na kusahaulika haraka zaidi, hiyo inahisi kama mapinduzi ya utulivu.",
     ],
     quote: "Mashine inaweza kurudia umbo kwa ukamilifu. Lakini ukamilifu si kitu ninachojali.",
-    author: "Asha Mwinyi",
+    author: "Studio Asili",
     role: "Mwanzilishi mwenza, Asili & Udongo",
   },
   {
@@ -375,7 +375,7 @@ export const articles: Article[] = [
       "Tumekuwa tukifikiria hili sana tunapokua: kwamba vitu vizuri si vile vinavyoonekana vizuri kwenye picha, bali vile vinaboresha kwa utulivu saa maalum ya siku yako. Nyumba iliyoundwa kuzunguka mwanga wa asubuhi ni nyumba iliyoundwa kuzunguka umakini.",
     ],
     quote: "Vitu vizuri si vile vinavyoonekana vizuri kwenye picha. Ni vile vinaboresha kwa utulivu saa maalum ya siku yako.",
-    author: "Asha Mwinyi",
+    author: "Studio Asili",
     role: "Mwanzilishi mwenza, Asili & Udongo",
   },
 ];
@@ -392,7 +392,7 @@ export const reviews: Review[] = [
     quote:
       "Kitu unachokiona kila siku. Kahawa yangu ya asubuhi ina ladha bora katika Kikombe cha Asubuhi — kanaonekana kama kilitengenezwa kwa ajili ya mkono wangu.",
     name: "Neema K.",
-    place: "Dar es Salaam",
+    place: "Arusha",
     detail: "Kikombe cha Asubuhi, rangi ya ngano",
   },
   {

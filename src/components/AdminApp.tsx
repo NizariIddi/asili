@@ -139,7 +139,7 @@ function AdminLogin({
               </li>
             ))}
           </ul>
-          <p className="relative mt-10 text-[8px] uppercase tracking-[0.2em] text-cream/30">Dar es Salaam · Tangu 2014</p>
+          <p className="relative mt-10 text-[8px] uppercase tracking-[0.2em] text-cream/30">Arusha · Tangu 2014</p>
         </div>
 
         <div className="relative flex flex-col justify-center px-6 py-12 sm:px-12">
@@ -370,7 +370,7 @@ export default function AdminApp(props: Props) {
             AM
           </span>
           <div className="min-w-0 flex-1">
-            <p className="truncate text-[10.5px] font-medium text-cream">Asha Mwinyi</p>
+            <p className="truncate text-[10.5px] font-medium text-cream">Studio Asili</p>
             <p className="text-[8px] uppercase tracking-[0.1em] text-cream/35">Msimamizi mkuu</p>
           </div>
           <button type="button" onClick={lock} aria-label="Funga kwa usalama" title="Funga kwa usalama" className="cursor-pointer text-cream/45 transition-colors hover:text-cream">

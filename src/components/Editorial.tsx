@@ -69,8 +69,8 @@ export function Story({ onOpenArticle }: { onOpenArticle: (article: Article) => 
 
             <div className="mt-8 flex flex-wrap items-end justify-between gap-5 border-t border-ink/10 pt-6">
               <div>
-                <p className="font-display text-[1.6rem] italic leading-none text-ink">Asha &amp; Juma</p>
-                <p className="mt-1.5 text-[10px] uppercase tracking-[0.14em] text-stone">Waanzilishi, Dar es Salaam</p>
+                <p className="font-display text-[1.6rem] italic leading-none text-ink">Studio Asili</p>
+                <p className="mt-1.5 text-[10px] uppercase tracking-[0.14em] text-stone">Waanzilishi, Arusha</p>
               </div>
               <button
                 type="button"

@@ -173,12 +173,12 @@ export function exportJson(filename: string, data: unknown) {
 /* ------------------------------- seed orders ------------------------------ */
 
 const seedCustomers = [
-  { name: "Neema Kessy", email: "neema.kessy@mfano.com", phone: "+255 754 118 220", address: "Mtaa wa Mikocheni 14", city: "Dar es Salaam", postcode: "14112" },
+  { name: "Neema Kessy", email: "neema.kessy@mfano.com", phone: "+255 754 118 220", address: "Mtaa wa Mikocheni 14", city: "Arusha", postcode: "14112" },
   { name: "Joseph Mrema", email: "joseph.mrema@mfano.com", phone: "+255 715 447 800", address: "Njiro Road 8", city: "Arusha", postcode: "23103" },
   { name: "Aisha Suleiman", email: "aisha.s@mfano.com", phone: "+255 777 900 145", address: "Shangani 22", city: "Zanzibar", postcode: "71100" },
-  { name: "Baraka Mushi", email: "baraka.m@mfano.com", phone: "+255 786 223 019", address: "Kijichi 6", city: "Dar es Salaam", postcode: "14112" },
-  { name: "Halima Bakari", email: "halima.b@mfano.com", phone: "+255 758 665 210", address: "Kariakoo 41", city: "Dar es Salaam", postcode: "14110" },
-  { name: "Mads Rømer", email: "mads.r@mfano.com", phone: "+255 768 309 004", address: "Oyster Bay 12", city: "Dar es Salaam", postcode: "14111" },
+  { name: "Baraka Mushi", email: "baraka.m@mfano.com", phone: "+255 786 223 019", address: "Kijichi 6", city: "Arusha", postcode: "14112" },
+  { name: "Halima Bakari", email: "halima.b@mfano.com", phone: "+255 758 665 210", address: "Kariakoo 41", city: "Arusha", postcode: "14110" },
+  { name: "Mads Rømer", email: "mads.r@mfano.com", phone: "+255 768 309 004", address: "Oyster Bay 12", city: "Arusha", postcode: "14111" },
 ];
 
 const seedPlans: { days: number; status: ShopOrderStatus; customer: number; picks: [number, number][] }[] = [

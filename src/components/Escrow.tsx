@@ -599,7 +599,7 @@ export function RequestWizard({ initialType, onClose, onSubmit }: WizardProps) {
                     autoComplete="name"
                     value={form.name}
                     onChange={(e) => set("name", e.target.value)}
-                    placeholder="Asha Mwinyi"
+                    placeholder="Studio Asili"
                     className="field"
                     aria-invalid={Boolean(errors.name)}
                   />
