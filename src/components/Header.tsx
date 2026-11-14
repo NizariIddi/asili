@@ -26,7 +26,7 @@ export function AnnouncementBar({ announcement }: { announcement?: string }) {
     <div className="relative z-40 bg-ink text-cream">
       <div className="shell flex h-9 items-center justify-between gap-4 text-[9.5px] uppercase tracking-[0.18em]">
         <a href="#story" className="hidden text-cream/55 transition-colors hover:text-cream md:inline">
-          Tangu 2014 · Arusha
+          Tangu Jana· Arusha
         </a>
         <div className="relative mx-auto h-full flex-1 overflow-hidden md:mx-0 md:flex-none">
           <div className="flex h-full items-center justify-center">
